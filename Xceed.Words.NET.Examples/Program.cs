@@ -17,7 +17,7 @@ namespace Xceed.Words.NET.Examples
 {
   public class Program
   {
-    internal const string SampleDirectory = @"..\..\Samples\";
+    internal const string SampleDirectory = @"..\..\..\Samples\";
 
     private static void Main( string[] args )
     {
